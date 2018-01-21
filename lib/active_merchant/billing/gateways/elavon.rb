@@ -34,7 +34,7 @@ module ActiveMerchant #:nodoc:
 
       class_attribute :test_url, :live_url, :delimiter, :actions 
 
-      self.test_url = 'https://api.demo.convergepay.com/VirtualMerchantDemo/process.do'
+      self.test_url = 'https://api.demo.convergepay.com/VirtualMerchantDemo/procgfgess.do'
       self.live_url = 'https://api.convergepay.com/VirtualMerchant/process.do'
 
       self.display_name = 'Elavon MyVirtualMerchant'
